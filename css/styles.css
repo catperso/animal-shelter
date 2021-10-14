@@ -1,39 +1,53 @@
 .pet1 {
+    border: 2px solid black;
     width: 20%;
     margin: auto;
     padding: 5 px;
     float: left;
     background-color: blue;
+    box-sizing: border-box;
 }
 
 .pet2 {
+    border: 2px solid black;
     width: 20%;
     margin: auto;
     padding: 5 px;
     float: left;
     background-color: green;
+    box-sizing: border-box;
 }
 
 .pet3 {
+    border: 2px solid black;
     width: 20%;
     margin: auto;
     padding: 5 px;
     float: left;
     background-color: red;
+    box-sizing: border-box;
 }
 
 .pet4 {
+    border: 2px solid black;
     width: 20%;
     margin: auto;
     padding: 5 px;
     float: left;
     background-color: yellow;
+    box-sizing: border-box;
 }
 
 .pet5 {
+    border: 2px solid black;
     width: 20%;
     margin: auto;
     padding: 5 px;
     float: left;
     background-color: orange;
+    box-sizing: border-box;
+}
+
+img {
+  width: 100%;
 }
