@@ -1,0 +1,39 @@
+.pet1 {
+    width: 20%;
+    margin: auto;
+    padding: 5 px;
+    float: left;
+    background-color: blue;
+}
+
+.pet2 {
+    width: 20%;
+    margin: auto;
+    padding: 5 px;
+    float: left;
+    background-color: green;
+}
+
+.pet3 {
+    width: 20%;
+    margin: auto;
+    padding: 5 px;
+    float: left;
+    background-color: red;
+}
+
+.pet4 {
+    width: 20%;
+    margin: auto;
+    padding: 5 px;
+    float: left;
+    background-color: yellow;
+}
+
+.pet5 {
+    width: 20%;
+    margin: auto;
+    padding: 5 px;
+    float: left;
+    background-color: orange;
+}
